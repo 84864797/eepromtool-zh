@@ -1,0 +1,1 @@
+3c07001375200ca3b49db4b2a3d56064edc41a168c9cc92d047e437d72693e83  eepromtool-zh-v1.0.0-windows-x64.zip

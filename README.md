@@ -4,7 +4,7 @@
 
 ## Windows 使用
 
-1. 从 [Releases](https://github.com/84864797/eepromtool-zh/releases) 下载 Windows x64 压缩包并解压。将两个 EXE 放在同一目录。
+1. 下载并解压 [Windows x64 v1.0.0](https://github.com/84864797/eepromtool-zh/raw/main/downloads/eepromtool-zh-v1.0.0-windows-x64.zip)。将两个 EXE 放在同一目录。
 2. 安装 [Npcap](https://npcap.com/#download)，勾选 **Install Npcap in WinPcap API-compatible Mode**。如果限制管理员使用 Npcap，请以管理员身份运行工具。
 3. 用电脑有线网口直连板卡的 EtherCAT IN 口并给板卡上电。如果 TwinCAT 等主站使用同一网口，先停止该主站。
 4. 双击 `eepromtool-ui.exe`，选择实际接线的网卡。直连一块板卡时，从站序号填 `1`。点击「读取信息」确认目标。已有配置的设备可以用「备份 EEPROM」保存一份 BIN。
